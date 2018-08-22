@@ -1,0 +1,8 @@
+On 1st command prompt, navigate to C:\Users\user\webdriverio-test and run below to start selenium standalone server.
+
+java -jar selenium-server-standalone-3.5.3.jar
+
+
+On 2nd command prompt, navigate to C:\Users\user\node_modules\.bin> and run below to execute your automation tests.
+
+wdio wdio.conf.js
